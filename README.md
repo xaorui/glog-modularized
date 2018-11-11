@@ -4,8 +4,8 @@ Throught the LAN cli, you can do the following things:
 1、change the log level and switch for a module 
 2、save and get param registered in the parameter server 
 
-How to use it?
-1、build
+How to use it? 
+1、build 
 mkdir build
 cd build
 cmake ..
