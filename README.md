@@ -1,7 +1,7 @@
 # glog-modularized
 This project contains a modularized glog, a simple log, and cli-tools.
 Throught the LAN cli, you can do the following things:
-1、change the log level and switch for a module at
+1、change the log level and switch for a module 
 2、save and get param registered in the parameter server 
 
 How to use it?
