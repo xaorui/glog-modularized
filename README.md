@@ -5,11 +5,12 @@ Throught the LAN cli, you can do the following things:
 2、save and get param registered in the parameter server 
 
 How to use it? 
+
 1、build 
-mkdir build
-cd build
-cmake ..
-make
+  mkdir build
+  cd build
+  cmake ..
+  make
  
 2、running
 1) start the main process
