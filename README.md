@@ -10,18 +10,7 @@ mkdir build
 cd build
 cmake ..
 make
-
-build result
-install
-├── bin
-│   ├── cli_client
-│   └── test_cli_srv
-└── lib
-    ├── libmlog.so -> libmlog.so.0.3.5
-    ├── libmlog.so.0
-    ├── libmlog.so.0.3.5 -> libmlog.so.0
-    └── libtools.so
-    
+ 
 2、running
 1) start the main process
   .//intstall/bin/test_cli_srv
@@ -44,5 +33,17 @@ param :
 	get	name	get registed param
 	set	name	set registed param
 <#>
+
+
+build result
+install
+├── bin
+│   ├── cli_client
+│   └── test_cli_srv
+└── lib
+    ├── libmlog.so -> libmlog.so.0.3.5
+    ├── libmlog.so.0
+    ├── libmlog.so.0.3.5 -> libmlog.so.0
+    └── libtools.so
 
 
